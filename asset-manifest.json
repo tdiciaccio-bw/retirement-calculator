@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/retirement-calculator/static/js/main.7bfa2f34.chunk.js",
+    "main.js.map": "/retirement-calculator/static/js/main.7bfa2f34.chunk.js.map",
+    "runtime-main.js": "/retirement-calculator/static/js/runtime-main.76d9cc84.js",
+    "runtime-main.js.map": "/retirement-calculator/static/js/runtime-main.76d9cc84.js.map",
+    "static/js/2.d5fdbc1c.chunk.js": "/retirement-calculator/static/js/2.d5fdbc1c.chunk.js",
+    "static/js/2.d5fdbc1c.chunk.js.map": "/retirement-calculator/static/js/2.d5fdbc1c.chunk.js.map",
+    "index.html": "/retirement-calculator/index.html",
+    "precache-manifest.cc1de9286e25d985cb97cc2e262072e4.js": "/retirement-calculator/precache-manifest.cc1de9286e25d985cb97cc2e262072e4.js",
+    "service-worker.js": "/retirement-calculator/service-worker.js",
+    "static/js/2.d5fdbc1c.chunk.js.LICENSE.txt": "/retirement-calculator/static/js/2.d5fdbc1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76d9cc84.js",
+    "static/js/2.d5fdbc1c.chunk.js",
+    "static/js/main.7bfa2f34.chunk.js"
+  ]
+}
