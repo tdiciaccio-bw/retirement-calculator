@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/retirement-calculator/precache-manifest.cc1de9286e25d985cb97cc2e262072e4.js"
+  "/retirement-calculator/precache-manifest.d561994b8cfb73c8d54202a32c5bd8da.js"
 );
 
 self.addEventListener('message', (event) => {
